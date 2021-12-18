@@ -1,6 +1,14 @@
 ### Hi there<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" style="max-width: 100%;"></a>, I'm Abbas Hassan
 A 4th-year student pursuing Bachelors in Computer science studies. I am a Data Science enthusiast, Python developer, and deeply into Deep Learning.
 
+
+
+
+
+
+
+<img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+
 <!--
 **abbashassan-py/abbashassan-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
